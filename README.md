@@ -1,0 +1,2 @@
+# pizdef
+xz cho pisat
